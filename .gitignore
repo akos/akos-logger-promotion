@@ -1,0 +1,48 @@
+.DS_Store
+node_modules/
+npm-debug.log
+**/_test.js
+**/_test*
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Test
+test-reports
+coverage
+package-lock.json
+
+
+# Dependency directories
+node_modules
+jspm_packages
+
+
+# Cache directory
+.npm
+.DS_Store
+.pursuit-cache
+.fontcustom-manifest.json
+
+# Optional REPL history
+.node_repl_history
+
+# Temporary directories or files
+tmp/
+*.pyc
+
+# Editor or IDE setting directories
+.vscode/
+.idea/
+.webstorm/
+
+# vscode custom config
+
+# private test
+_*
