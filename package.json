@@ -1,7 +1,7 @@
 {
    "name": "akos-logger-promotion",
-  "description": "",
-  "version": "1.0.0",
+  "description": "a logger promotion for akos",
+  "version": "0.0.1",
   "main": "main.js",
   "directories": {
     "lib": "lib"
